@@ -10,3 +10,12 @@ pip install -r requirements.txt
 
 ## 2. Preprocess the data
 The dataset can be downloaded via the following repository: [USDA](https://github.com/dengyang17/USDA/tree/main).
+
+## 3. Training
+```sh
+./ train.sh
+```
+## 4. Testing
+```sh
+./ test.sh
+```
