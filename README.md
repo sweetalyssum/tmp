@@ -19,3 +19,30 @@ The dataset can be downloaded via the following repository: [USDA](https://githu
 ```sh
 ./ test.sh
 ```
+
+## Bugs or questions?
+If you have any inquiries pertaining to the code or the paper, please do not hesitate to contact [Yue Feng](https://yuefeng-leah.github.io/homepage/main). In case you encounter any issues while utilising the code or wish to report a bug, you may open an issue. We kindly request that you provide specific details regarding the problem so that we can offer prompt and efficient assistance.
+
+## Citation
+```
+@inproceedings{yue2023usm,
+  title={Schema-guided User Satisfaction Modeling for Task-oriented Dialogues},
+  author={Yue Feng, Yunlong Jiao, Animesh Prasad, Nikolaos Aletras, Emine Yilmaz and Gabriella Kazai.},
+  year={2023},
+  address = {Toronto, Canada},
+  booktitle = {The 61st Annual Meeting of the Association for Computational Linguistics: ACL 2023},
+  publisher = {Association for Computational Linguistics},
+}
+```
+
+## Authors
+
+- [**Yue Feng**](https://yuefeng-leah.github.io/homepage/main): Main contributor
+
+## Security
+
+See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+
+## License
+
+This project is licensed under the Apache-2.0 License.
